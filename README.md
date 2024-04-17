@@ -2,7 +2,7 @@
 
 
 ## Hi 👋
-## This is Sully Oz
+## This is Attila Oz
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smeteo" alt="smeteo" /> </p>
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sully-oz/)
